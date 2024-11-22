@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/Nicoo2001802/count.svg"
+    src="https://profile-counter.glitch.me/DevMarquesx2001802/count.svg"
     alt="Número de visitantes no perfil"
   />
 </p>

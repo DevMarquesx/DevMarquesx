@@ -60,9 +60,9 @@
 </div>
 
 ###
-
+<div>
 <img align="left" src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 ---
 <div align="center">

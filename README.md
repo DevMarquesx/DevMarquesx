@@ -26,14 +26,14 @@
 <p align="left">🦑In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileia Paulo Ernesto Tolle.</p>
 
 ###
-<div>
+
+<h2 align="left">Tools:</h2>
+
+###
+
 <br clear="both">
 
 <img align="right" height="100" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
-</div>
-###
-
-<h2 align="left">Tools:</h2>
 
 ###
 

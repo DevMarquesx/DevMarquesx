@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img align="right" height="140" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
+<img align="right" height="100" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
 
 ###
 

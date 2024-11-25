@@ -61,7 +61,7 @@
 
 ###
 
-<img height="200" src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
+<img height="170" src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
 
 ###
 

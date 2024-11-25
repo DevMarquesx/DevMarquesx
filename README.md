@@ -31,12 +31,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="140" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -60,9 +54,15 @@
 </div>
 
 ###
-<div>
-<img align="left" src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
-</div>
+
+<br clear="both">
+
+<img align="right" height="140" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div align="center">

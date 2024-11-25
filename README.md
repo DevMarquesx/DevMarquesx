@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DevMarquesx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMarquesx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+---
 ###
 
 <h4 align="left">Hi 👋, I am Kauã!  I`m 17 years, i live São Paulo, Brazil.</h4>
@@ -24,6 +24,11 @@
 ###
 
 <p align="left">🦑In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileia Paulo Ernesto Tolle.</p>
+###
+
+<br clear="both">
+
+<img align="right" height="140" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
 
 ###
 
@@ -53,11 +58,7 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img align="right" height="140" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
 
 ###
 

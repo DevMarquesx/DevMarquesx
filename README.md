@@ -24,15 +24,16 @@
 ###
 
 <p align="left">🦑In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileia Paulo Ernesto Tolle.</p>
+
+###
+
+<h2 align="left">Tools:</h2>
+
 ###
 
 <br clear="both">
 
 <img align="right" height="140" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
-
-###
-
-<h2 align="left">Tools:</h2>
 
 ###
 
@@ -58,15 +59,13 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
-
-
 ###
 
 <img align="left" src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-marques-rodrigues-0b5877328/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>

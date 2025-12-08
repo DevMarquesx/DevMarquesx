@@ -1,35 +1,41 @@
 <h1 align="center">Hello Word!</h1>
 
----
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DevMarquesx/count.svg?"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevMarquesx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevMarquesx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
 <h4 align="left">Hi 👋, I am Kauã!  I`m 17 years, i live São Paulo, Brazil.</h4>
 
----
+###
 
 <p align="left">🪸Currently studying the second year of high school at the SESI institute (Social Service of Industry).</p>
 
----
+###
 
 <p align="left">🦑In the second semester, I am also studying Systems Development at the Senai Suíço-Brasileia Paulo Ernesto Tolle.</p>
 
----
+###
 
 <h2 align="left">Tools:</h2>
 
----
+###
 
 <br clear="both">
 
 <img align="right" height="100" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
 
----
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -53,13 +59,13 @@
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
 </div>
 
----
+###
 
 <br clear="both">
 
-<img src="https://github.com/DevMarquesx/DevMarquesx/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
 
----
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kau%C3%A3-marques-rodrigues-0b5877328/" target="_blank">
@@ -76,4 +82,7 @@
   </a>
 </div>
 
----
+###
+
+
+alguns sites desse readme pararam de funcionar, pode arrumar para mim?

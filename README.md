@@ -57,7 +57,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://github.com/DevMarquesx/DevMarquesx/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ---
 

@@ -1,3 +1,15 @@
+---
+
+## 👀 Visitantes
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=DevMarquesx&color=blue&style=for-the-badge"/>
+
+</p>
+
+---
+
 <h1 align="center">Olá 👋, eu sou Kauã</h1>
 
 <h3 align="center">Desenvolvedor em formação 🚀</h3>
@@ -24,18 +36,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevMarquesx&show_icons=true&theme=dark&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarquesx&layout=compact&theme=dark&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 Sequência de commits
 
 <p align="center">
@@ -56,16 +56,6 @@
 
 ---
 
-## 🏆 Troféus do GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevMarquesx&theme=darkhub&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 ## 📈 Gráfico de contribuições
 
 <p align="center">
@@ -75,23 +65,5 @@
 </p>
 
 ---
-
-## 👀 Visitantes
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DevMarquesx&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
-## 🌎 Contato
-
-<p align="center">
-
-<a href="https://github.com/DevMarquesx">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-</a>
 
 </p>

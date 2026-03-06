@@ -3,7 +3,7 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=DevMarquesx&theme=dark&hide_border=false"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarquesx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
-#
+
 
 # 💫 About Me:
 Hi 👋, I am Kauã!  I`m 18 years, i live São Paulo, Brazil.<br><br>🪸Currently in my first year of higher education at the Senai Santo-Amaro "Paulo Ernesto Tolle" institution.<br>🦑Technical training in Systems Development at the same educational institution.<br>🪼Passionate about technology and a student focused on database analysis.<br>

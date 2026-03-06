@@ -9,7 +9,7 @@
 <h3 align="center">Desenvolvedor em formação 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+Dados;Python+%7C+React+%7C+JavaScript;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+React+%7C+JavaScript+%7C+Java;Sempre+aprendendo+algo+novo" />
 </p>
 
 ---

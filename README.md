@@ -19,7 +19,6 @@
 <img src="https://skillicons.dev/icons?i=css" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=pandas" />
 
 </p>
 

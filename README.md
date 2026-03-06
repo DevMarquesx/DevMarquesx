@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I am Kauã!  I`m 18 years, i live São Paulo, Brazil.<br><br>🪸Currently in my first year of higher education at the Senai Santo-Amaro "Paulo Ernesto Tolle" institution.<br>🦑Technical training in Systems Development at the same educational institution.<br>
+Hi 👋, I am Kauã!  I`m 18 years, i live São Paulo, Brazil.<br><br>🪸Currently in my first year of higher education at the Senai Santo-Amaro "Paulo Ernesto Tolle" institution.<br>🦑Technical training in Systems Development at the same educational institution.<br>🪼Passionate about technology and a student focused on database analysis.<br>
 
 
 ## 🌐 Socials:

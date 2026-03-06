@@ -1,14 +1,8 @@
----
-
-## 👀 Visitantes
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=DevMarquesx&color=blue&style=for-the-badge"/>
 
 </p>
-
----
 
 <h1 align="center">Olá 👋, eu sou Kauã</h1>
 

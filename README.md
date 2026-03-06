@@ -10,6 +10,7 @@
 
 ## 🚀 Tecnologias
 
+
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
@@ -21,7 +22,6 @@
 <img src="https://skillicons.dev/icons?i=github" />
 
 </p>
-
 ---
 
 ## 📊 Estatísticas

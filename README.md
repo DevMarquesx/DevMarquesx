@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor em formação 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;Estudante+de+Dados;Python+%7C+React+%7C+JavaScript;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+React+%7C+JavaScript;Sempre+aprendendo+algo+novo" />
 </p>
 
 ---
@@ -36,31 +36,11 @@
 
 ---
 
-## 🔥 Sequência de commits
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=DevMarquesx&theme=dark&hide_border=true"/>
-
-</p>
-
----
-
 ## 🐍 Cobrinha comendo commits
 
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-## 🏆 Troféus do GitHub
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=DevMarquesx&theme=darkhub&no-frame=true&row=1&column=6"/>
 
 </p>
 

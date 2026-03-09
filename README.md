@@ -20,7 +20,10 @@
 
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=javascript" />
+<img src="https://skillicons.dev/icons?i=npm" />
+<img src="https://skillicons.dev/icons?i=notion" />
 <img src="https://skillicons.dev/icons?i=react" />
 <img src="https://skillicons.dev/icons?i=html" />
 <img src="https://skillicons.dev/icons?i=css" />

@@ -30,8 +30,6 @@
 
 ---
 
-## 🔥 Sequência de commits
-
 <p align="center">
 
 <img src="https://nirzak-streak-stats.vercel.app/?user=DevMarquesx&theme=dark&hide_border=true"/>
@@ -40,8 +38,6 @@
 
 ---
 
-## 🐍 Cobrinha comendo commits
-
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
@@ -49,8 +45,6 @@
 </p>
 
 ---
-
-## 📈 Gráfico de contribuições
 
 <p align="center">
 

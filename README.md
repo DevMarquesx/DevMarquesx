@@ -26,7 +26,9 @@
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=azure" />
-<img src="https://skillicons.dev/icons?i=pandas" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=powerbi" />
 
 </p>
 

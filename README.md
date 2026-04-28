@@ -38,10 +38,9 @@
 ---
 
 <p align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMarquesx&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarquesx&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=DevMarquesx&theme=radical)
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical"/>
+  <img height="160em" src="https://streak-stats.demolab.com/?user=SEU_USUARIO&theme=radical"/>
 </p>
 
 ---

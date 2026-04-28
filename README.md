@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=header"/>
 <h1 align="center">Olá 👋, eu sou Kauã</h1>
 
 <h3 align="center">Desenvolvedor em formação 🚀</h3>
@@ -49,3 +49,4 @@
 ---
 
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>

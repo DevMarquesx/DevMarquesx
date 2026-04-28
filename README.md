@@ -30,6 +30,10 @@
   <img height="160em" src="https://streak-stats.demolab.com/?user=DevMarquesx&theme=radical"/>
 </p>
 
+<div align="center">
+  <img src="https://github.com/DevMarquesx/DevMarquesx/blob/output/github-contribution-grid-snake-dark.svg"/>
+</div>
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMarquesx&theme=github-dark"/>

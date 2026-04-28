@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=header"/>
 <h1 align="center">Olá 👋, eu sou Kauã</h1>
 
-<h3 align="center">Desenvolvedor em formação 🚀</h3>
+<h3 align="center">Desenvolvedor 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+SQL+%7C+PowerBI+%7C+Java;Sempre+aprendendo+algo+novo" />

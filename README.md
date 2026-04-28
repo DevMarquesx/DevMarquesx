@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+SQL+%7C+PowerBI+%7C+Java;Sempre+aprendendo+algo+novo" />
 </p>
 
----
-
 ## 🚀 Tecnologias
 
 <p align="center">
@@ -24,8 +22,6 @@
 
 </p>
 
----
-
 ## 📊 Estatísticas 
 
 <p align="center">
@@ -34,15 +30,9 @@
   <img height="160em" src="https://streak-stats.demolab.com/?user=DevMarquesx&theme=radical"/>
 </p>
 
----
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMarquesx&theme=github-dark"/>
-
-</p>
-
----
 
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>

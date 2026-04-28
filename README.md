@@ -31,7 +31,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/DevMarquesx/DevMarquesx/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github.com/DevMarquesx/DevMarquesx/blob/output/snake.svg"/>
 </div>
 
 <p align="center">

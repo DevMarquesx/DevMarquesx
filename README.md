@@ -41,7 +41,7 @@
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevMarquesx&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarquesx&layout=compact&theme=radical)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=DevMarquesx&theme=radical)
 </p>
 
 ---

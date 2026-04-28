@@ -22,7 +22,7 @@
 
 </p>
 
-## 📊 Estatísticas 
+## 🎲Estatísticas 
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevMarquesx&show_icons=true&theme=radical"/>
@@ -30,12 +30,13 @@
   <img height="160em" src="https://streak-stats.demolab.com/?user=DevMarquesx&theme=radical"/>
 </p>
 
+## 📊graphics
+
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMarquesx&theme=github-dark"/>
 
 </p>
-
 <div align="center">
   <img src="https://github.com/DevMarquesx/DevMarquesx/blob/output/snake.svg"/>
 </div>

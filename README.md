@@ -30,13 +30,14 @@
   <img height="160em" src="https://streak-stats.demolab.com/?user=DevMarquesx&theme=radical"/>
 </p>
 
-<div align="center">
-  <img src="https://github.com/DevMarquesx/DevMarquesx/blob/output/snake.svg"/>
-</div>
-
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMarquesx&theme=github-dark"/>
 
 </p>
+
+<div align="center">
+  <img src="https://github.com/DevMarquesx/DevMarquesx/blob/output/snake.svg"/>
+</div>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>

@@ -39,14 +39,6 @@
 
 <p align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=DevMarquesx&theme=dark&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarquesx&layout=compact&theme=radical)
 
 </p>

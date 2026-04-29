@@ -14,7 +14,7 @@
 ### 📊 Data & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb" />
-  <img src="https://www.streamlinehq.com/icons/download/microsoft-power-bi--31103" height="48"/>
+  <img src="https://github.com/user-attachments/assets/12426613-79ad-4da2-831b-c7f26c751126" height="48"/>
 </p>
 
 ### 💻 Full Stack Development

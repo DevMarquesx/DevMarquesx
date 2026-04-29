@@ -46,6 +46,14 @@
 
 ---
 
+## 🏆 Troféus do GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevMarquesx&theme=radical&row=1&column=6&margin-w=15&margin-h=15"/>
+</p>
+
+---
+
 ## 📈 Atividade
 
 <p align="center">

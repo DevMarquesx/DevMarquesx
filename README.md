@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+SQL+%7C+PowerBI+%7C+Java;Sempre+aprendendo+algo+novo" />
 </p>
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 <h2>📊 Data & Analytics</h2>
 <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb" />

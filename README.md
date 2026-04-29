@@ -14,7 +14,7 @@
 ### 📊 Data & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb" />
-  <img src="https://github.com/user-attachments/assets/12426613-79ad-4da2-831b-c7f26c751126" height="48"/>
+  <img src="https://github.com/user-attachments/assets/12426613-79ad-4da2-831b-c7f26c751126" height="48" style="filter: invert(78%) sepia(94%) saturate(749%) hue-rotate(1deg) brightness(105%) contrast(105%);"/>
 </p>
 
 ### 💻 Full Stack Development

@@ -59,14 +59,14 @@
 ### 📊 Bubble Sort
 <p align="center">
   <a href="https://github.com/DevMarquesx/Bubble_sort">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarquesx&repo=PROJETO-DADOS&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarquesx&repo=Bubble_sort&theme=radical"/>
   </a>
 </p>
 
 ### 💻 Agente de IA recomendador de filmes
 <p align="center">
   <a href="https://github.com/DevMarquesx/project_chatJFY-gpt4.1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarquesx&repo=PROJETO-FULLSTACK&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarquesx&repo=project_chatJFY-gpt4.1&theme=radical"/>
   </a>
 </p>
 

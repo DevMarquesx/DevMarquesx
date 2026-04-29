@@ -12,7 +12,7 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=powerbi" />
+<img src="https://skillicons.dev/icons?i=aws" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=javascript" />

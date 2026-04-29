@@ -11,16 +11,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=pandas" />
-<img src="https://skillicons.dev/icons?i=aws" />
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=azure" />
-
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,aws,azure,git,github,docker,linux" />
 </p>
 
 ## 🎲Estatísticas 

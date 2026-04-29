@@ -14,7 +14,7 @@
 ### 📊 Data & Analytics
 <p>
   <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb" />
-  <img src="[https://cdn.simpleicons.org/powerbi/F2C811](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg)" height="48"/>
+  <img src="[[https://cdn.simpleicons.org/powerbi/F2C811](https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg)](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/powerbi.svg)" height="48"/>
 </p>
 
 ### 💻 Full Stack Development

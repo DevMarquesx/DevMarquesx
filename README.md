@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,aws,azure,git,github,docker,linux" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,r,mysql,postgres,mongodb,aws,azure,git,github,docker,linux,nodejs,spring,react" />
 </p>
 
 ## 🎲Estatísticas 

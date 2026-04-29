@@ -9,10 +9,24 @@
 
 ## 🚀 Tecnologias
 
-<p align="center">
+<h2>📊 Data & Analytics</h2>
+<img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb" />
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,r,mysql,postgres,mongodb,aws,azure,git,github,docker,linux,nodejs,spring,react" />
-</p>
+<br><br>
+
+<h2>💻 Full Stack Development</h2>
+
+<h3>🎨 Front-end</h3>
+<img src="https://skillicons.dev/icons?i=html,css,react,javascript" />
+
+<h3>⚙️ Back-end</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,spring,java" />
+
+<br>
+
+<h2>☁️ Cloud & Tools</h2>
+<img src="https://skillicons.dev/icons?i=aws,azure,git,github,docker,linux" />
 
 ## 🎲Estatísticas 
 

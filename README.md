@@ -39,11 +39,13 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DevMarquesx&show_icons=true&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarquesx&layout=compact&theme=radical"/>
-  <img height="160em" src="https://streak-stats.demolab.com/?user=DevMarquesx&theme=radical"/>
+  <img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/main/profile-summary-card-output/radical/0-profile-details.svg"/>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="32%"/>
+  <img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/main/profile-summary-card-output/radical/3-stats.svg" width="32%"/>
+</p>
 ---
 
 ## 🏆 Troféus do GitHub

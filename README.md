@@ -21,7 +21,7 @@
 
 ## 🙋‍♂️ Sobre Mim
 <p>
-  Estudante de *Tecnólogo em Inteligência e Análise de Dados* no *SENAI Suíço-Brasileira*. Tenho experiência prática na construção de pipelines, Análise Exploratória (EDA) e automação. Meu foco é resolver problemas      complexos e gerar valor de negócio através dos dados.
+  Estudante de <b>Tecnólogo em Inteligência e Análise de Dados</b> no <b>SENAI Suíço-Brasileira</b>. Tenho experiência prática na construção de pipelines, Análise Exploratória (EDA) e automação. Meu foco é resolver          problemas complexos e gerar valor de negócio através dos dados.
 </p>
 
 ---

@@ -4,7 +4,7 @@
 <h3 align="center">Data Analyst & Developer | SENAI Suíço-Brasileira 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+SQL+%7C+Power+BI+%7C+Java;Transformando+dados+em+negócios" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Data+Analytics+Student;Python+%7C+SQL+%7C+Power+BI+%7C+Java;Transforming+data+into+business+value" />
 </p>
 
 <p align="center">

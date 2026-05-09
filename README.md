@@ -60,6 +60,7 @@ Estudante de **Tecnólogo em Inteligência e Análise de Dados** no **SENAI Suí
   <img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/main/profile-summary-card-output/radical/2-most-commit-language.svg" width="32%"/>
   <img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/main/profile-summary-card-output/radical/3-stats.svg" width="32%"/>
 </p>
+
 ---
 
 ## 🏆 Troféus do GitHub

@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=header"/>
 
-<h1 align="center">Olá 👋, eu sou o Kauã Marques</h1>
-<h3 align="center">Desenvolvedor e Analista de Dados | SENAI Suíço-Brasileira 🚀</h3>
+<h1 align="center">Hi 👋, I'm Kauã Marques</h1>
+<h3 align="center">Data Analyst & Developer | SENAI Suíço-Brasileira 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+SQL+%7C+Power+BI+%7C+Java;Transformando+dados+em+negócios" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
 ### 📊 Data & Analytics
 <p>
@@ -53,7 +53,7 @@
 
 ---
 
-## 📊 Estatísticas
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/main/profile-summary-card-output/radical/0-profile-details.svg"/>
@@ -66,7 +66,7 @@
 
 ---
 
-## 🏆 Troféus do GitHub
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=DevMarquesx&theme=radical&row=1&column=6&margin-w=15&margin-h=15"/>
@@ -74,7 +74,7 @@
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
 ### 📊 Jobs and Salaries in Data Science: Análise Exploratória (EDA)
 <p align="center">
@@ -92,7 +92,7 @@
 
 ---
 
-## 📈 Atividade
+## 📈 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevMarquesx&theme=github-dark"/>

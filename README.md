@@ -58,16 +58,16 @@
 
 ## 🚀 Projetos em Destaque
 
-### 📊 Bubble Sort
+### 📊 Jobs and Salaries in Data Science: Análise Exploratória (EDA)
 <p align="center">
-  <a href="https://github.com/DevMarquesx/Bubble_sort">
+  <a href="https://github.com/DevMarquesx/analise-salarios-data-science">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarquesx&repo=analise-salarios-data-science&theme=radical"/>
   </a>
 </p>
 
-### 💻 Agente de IA recomendador de filmes
+### 💻 Mercado de Engenharia de Dados: Análise e Tendências
 <p align="center">
-  <a href="https://github.com/DevMarquesx/project_chatJFY-gpt4.1">
+  <a href="https://github.com/DevMarquesx/eda-mercado-engenharia-dados">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMarquesx&repo=eda-mercado-engenharia-dados&theme=radical"/>
   </a>
 </p>

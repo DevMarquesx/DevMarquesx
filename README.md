@@ -19,14 +19,14 @@
   </a>
 </p>
 
-## 🙋‍♂️ Sobre Mim
+## 🙋‍♂️ About Me
 <p>
-  Estudante de <b>Tecnólogo em Inteligência e Análise de Dados</b> no <b>SENAI Suíço-Brasileira</b>. Tenho experiência prática na construção de pipelines, Análise Exploratória (EDA) e automação. Meu foco é resolver          problemas complexos e gerar valor de negócio através dos dados.
+  <b>Intelligence and Data Analysis Technology</b> student at <b>SENAI Suíço-Brasileira</b>. I have hands-on experience building data pipelines, performing Exploratory Data Analysis (EDA), and automation. My focus is solving complex problems and driving business value through data.
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 🛠️ Skills & Tools
 
 ### 📊 Data & Analytics
 <p>

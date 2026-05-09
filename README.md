@@ -1,12 +1,26 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=header"/>
 
-<h1 align="center">Olá 👋, eu sou Kauã</h1>
-<h3 align="center">Desenvolvedor com foco em Dados 🚀</h3>
+<h1 align="center">Olá 👋, eu sou o Kauã Marques</h1>
+<h3 align="center">Desenvolvedor e Analista de Dados | SENAI Suíço-Brasileira 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+SQL+%7C+Power+BI+%7C+Java;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Dados;Python+%7C+SQL+%7C+Power+BI+%7C+Java;Transformando+dados+em+negócios" />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kauã-marques-rodrigues-0b5877328/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://devmarquesx.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%231a1a1a?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio">
+  </a>
+  <a href="mailto:kauamarquesrodrigues423@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+## 🙋‍♂️ Sobre Mim
+Estudante de **Tecnólogo em Inteligência e Análise de Dados** no **SENAI Suíço-Brasileira**. Tenho experiência prática na construção de pipelines, Análise Exploratória (EDA) e automação. Meu foco é resolver problemas complexos e gerar valor de negócio através dos dados.
 ---
 
 ## 🚀 Tecnologias

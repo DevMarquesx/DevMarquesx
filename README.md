@@ -61,7 +61,7 @@
 ### 📊 Jobs and Salaries in Data Science: Análise Exploratória (EDA)
 <p align="center">
   <a href="https://github.com/DevMarquesx/analise-salarios-data-science">
-    <img src="github-readme-stats.shion.dev/api/pin/?username=DevMarquesx&repo=analise-salarios-data-science&theme=radical"/>
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DevMarquesx&repo=analise-salarios-data-science&theme=radical"/>
   </a>
 </p>
 

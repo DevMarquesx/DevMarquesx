@@ -66,10 +66,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Commit Streak
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevMarquesx&theme=radical&row=1&column=7&no-frame=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMarquesx&theme=radical&hide_border=true&stroke=0000&background=111520" alt="GitHub Streak" />
 </p>
 
 ---

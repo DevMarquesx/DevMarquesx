@@ -69,12 +69,19 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevMarquesx&theme=radical&row=1&column=6&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DevMarquesx&theme=radical&row=1&column=7&no-frame=true"/>
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🧠 Análise de Sentimento AWS (NLP)
+<p align="center">
+  <a href="https://github.com/sofiascarvalho/Projeto_Integrador_AWS">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=sofiascarvalho&repo=Projeto_Integrador_AWS&theme=radical&v=1"/>
+  </a>
+</p>
 
 ### 📊 Jobs and Salaries in Data Science: Análise Exploratória (EDA)
 <p align="center">

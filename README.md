@@ -97,6 +97,12 @@
   </a>
 </p>
 
+### 💻 Tratamento de dados da NFL
+<p align="center">
+  <a href="https://github.com/DevMarquesx/Tratamento-dataset-NFL">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=DevMarquesx&repo=Tratamento-dataset-NFL&theme=radical&v=1"/>
+  </a>
+</p>
 ---
 
 ## 📈 Contributions
